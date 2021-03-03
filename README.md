@@ -4,6 +4,8 @@
 # Description :clipboard:
 This website is used to create a list of users. This website was created using React js, JSON Placeholder as data provider, and Redux as state management
 
+<img src="./users_list_demo.gif" width="100%" height="500px"/>
+
 # Project Link :link:
 You can see the results of this project by opening the following link https://users-list-react-redux.herokuapp.com/
 
